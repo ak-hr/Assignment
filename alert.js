@@ -1,3 +1,4 @@
+
 function loadHello(){
     alert("Hello!");
   }
@@ -8,3 +9,4 @@ function loadHello(){
     let z = x + y;
     alert(z);
   }
+
